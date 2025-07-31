@@ -1,4 +1,4 @@
-# MyGame
+# KAHUNHAZERD
 
 Unityで開発中の3Dアクションゲームです。
 
